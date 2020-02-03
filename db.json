@@ -1,0 +1,239 @@
+{
+  "ver": "2020-02-01",
+  "patients": [
+    {
+      "id": 1,
+      "date": "2020.01.21",
+      "status": "확진 및 격리",
+      "contact_count": 45,
+      "movement": [
+        {
+          "date": "2020.01.19",
+          "address": "인천공항"
+        },
+        {
+          "date": "2020.01.21",
+          "address": "인천광역시 의료원"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2020.01.24",
+      "status": "확진 및 격리",
+      "contact_count": 75,
+      "movement": [
+        {
+          "date": "2020.01.22",
+          "address": "김포공항"
+        },
+        {
+          "date": "2020.01.24",
+          "address": "국립중앙의료원"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2020.01.25",
+      "status": "확진 및 격리",
+      "contact_count": 74,
+      "movement": [
+        {
+          "date": "2020.01.20",
+          "address": "인천공항"
+        },
+        {
+          "date": "2020.01.22",
+          "address": "강남구 성형외과"
+        },
+        {
+          "date": "2020.01.22",
+          "address": "강남구 호텔"
+        },
+        {
+          "date": "2020.01.23",
+          "address": "한강변 산책"
+        },
+        {
+          "date": "2020.01.23",
+          "address": "한강변 편의점"
+        },
+        {
+          "date": "2020.01.23",
+          "address": "강남구 일대 음식점"
+        },
+        {
+          "date": "2020.01.24",
+          "address": "일산 음식점 카페"
+        },
+        {
+          "date": "2020.01.24",
+          "address": "일산 모친 자택"
+        },
+        {
+          "date": "2020.01.25",
+          "address": "일산 명지병원"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2020.01.26",
+      "status": "확진 및 격리",
+      "contact_count": 74,
+      "movement": [
+        {
+          "date": "2020.01.20",
+          "address": "인천공항"
+        },
+        {
+          "date": "2020.01.20",
+          "address": "평택 송탄터미널"
+        },
+        {
+          "date": "2020.01.21",
+          "address": "평택 365연합의원"
+        },
+        {
+          "date": "2020.01.26",
+          "address": "분당서울대병원"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2020.01.30",
+      "status": "확진 및 격리",
+      "contact_count": 29,
+      "movement": [
+        {
+          "date": "2020.01.24",
+          "address": "인천공항"
+        },
+        {
+          "date": "2020.01.26",
+          "address": "성동구 소재 역술인"
+        },
+        {
+          "date": "2020.01.26",
+          "address": "성신여대입구 CGV"
+        },
+        {
+          "date": "2020.01.27",
+          "address": "성북구 일대"
+        },
+        {
+          "date": "2020.01.28",
+          "address": "성북구 미용실"
+        },
+        {
+          "date": "2020.01.28",
+          "address": "중랑구 일대"
+        },
+        {
+          "date": "2020.01.28",
+          "address": "강남구소재 웨딩숍"
+        },
+        {
+          "date": "2020.01.29",
+          "address": "중랑구 보건소"
+        },
+        {
+          "date": "2020.01.30",
+          "address": "서울의료원"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2020.01.30",
+      "status": "확진 및 격리",
+      "contact_count": 25,
+      "movement": [
+        {
+          "date": "2020.01.26",
+          "address": "명륜교회"
+        },
+        {
+          "date": "2020.01.26",
+          "address": "종로구 일대 음식점"
+        },
+        {
+          "date": "2020.01.30",
+          "address": "서울대병원"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2020.01.30",
+      "status": "확진 및 격리",
+      "contact_count": 21,
+      "movement": [
+        {
+          "date": "2020.01.23",
+          "address": "인천공항"
+        },
+        {
+          "date": "2020.01.30",
+          "address": "서울대병원"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2020.01.30",
+      "status": "확진 및 격리",
+      "contact_count": null,
+      "movement": []
+    },
+    {
+      "id": 9,
+      "date": "2020.01.31",
+      "status": "확진 및 격리",
+      "contact_count": null,
+      "second_infection": 5,
+      "movement": [
+        {
+          "date": "2020.01.31",
+          "address": "서울대병원"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2020.01.31",
+      "status": "확진 및 격리",
+      "contact_count": null,
+      "second_infection": 6,
+      "movement": [
+        {
+          "date": "2020.01.30",
+          "address": "일산 소재 미용실"
+        },
+        {
+          "date": "2020.01.31",
+          "address": "서울대병원"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2020.01.31",
+      "status": "확진 및 격리",
+      "contact_count": null,
+      "second_infection": 6,
+      "movement": [
+        {
+          "date": "2020.01.30",
+          "address": "일산 소재 미용실"
+        },
+        {
+          "date": "2020.01.31",
+          "address": "서울대병원"
+        }
+      ]
+    }
+  ]
+}
